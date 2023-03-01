@@ -2,7 +2,7 @@ import javax.swing.JOptionPane;
 
 public class ex {
     public static void main(String[] args){
-        JOptionPane.showMessageDialog(null, "teste de interface",
-        "Java merda", 1);
+        String n1=JOptionPane.showInputDialog("digite um número:");
+        int numero = Integer.parseInt(n1);
     }
 }
