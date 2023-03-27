@@ -1,0 +1,8 @@
+. Linguagem fortemente tipada, orientada a objetos, ou seja, tudo que fazemos  são objetos.
+. Destaque em relação a outras linguagens: quando compila não gera um .exe, gera um .class(bytecode) -> precisa de jvm (java virtual machine)
+
+	1 JDK: Java Development Kit (ferramentas para criar códigos em java), compila o código fonte .java em bytecode(.class)
+	2 JVM : java virtual machine, máquina virtual responsável por executar o bytecode, sendo possível em vários sistemas, linux, windows, mac e outros.
+    3 JRE:  Java Runtime Enviroment, ambiente de execução do java que fornece as bibliotecas padrões do java para o JDK compilar o código e JVM executar o código
+
+    
